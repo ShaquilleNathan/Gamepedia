@@ -40,7 +40,3 @@ You can visit the website here:
 - JavaScript (Vanilla)
 - [Isotope.js](https://isotope.metafizzy.co/) for filtering logic
 - Font Awesome for icons
-
-## 📄 License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more information.
